@@ -1,1 +1,2 @@
-www/html/database.ini
+node_modules
+src/firebaseConfig.ts
